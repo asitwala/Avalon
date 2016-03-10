@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{11AB8206-FFB5-4F97-38C8-7D1E1B6C7755}") = "Testing AR Cardboard", "Assembly-CSharp.csproj", "{7529A687-6C42-5033-E09C-B49B1B9E19F8}"
+EndProject
+Project("{11AB8206-FFB5-4F97-38C8-7D1E1B6C7755}") = "Testing AR Cardboard", "Assembly-CSharp-Editor.csproj", "{21688539-8F3B-1D1B-229F-13EEF7793B97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7529A687-6C42-5033-E09C-B49B1B9E19F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7529A687-6C42-5033-E09C-B49B1B9E19F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7529A687-6C42-5033-E09C-B49B1B9E19F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7529A687-6C42-5033-E09C-B49B1B9E19F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21688539-8F3B-1D1B-229F-13EEF7793B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21688539-8F3B-1D1B-229F-13EEF7793B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21688539-8F3B-1D1B-229F-13EEF7793B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21688539-8F3B-1D1B-229F-13EEF7793B97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
